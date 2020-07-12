@@ -9,6 +9,166 @@ h1,h2,h3,h4,h5,h6,p {
   margin: 0;
 }
 
-h2{
-  background-color: antiquewhite;
+/* ヘッダー */
+.header{
+  height: 60px;
+  width: 100%;
+  border-bottom: ridge 0.5px gray;
+  background-color: white;
+  position: fixed;
+}
+
+.contents{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.contents a{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: 60px;
+  margin: 0 30px;
+}
+
+
+
+
+/* メイン */
+main{
+  width: 100%;
+}
+
+/* タイトル */
+.title{
+  padding-top: 60px;
+  height: 650px;
+  text-align: center;
+  background-color: white;
+}
+
+.title__myname{
+  font-size: 70px;
+  font-weight: bold;
+  padding-top: 200px;
+  letter-spacing: .2em;
+}
+
+.title__subtitle{
+  font-size: 20px;
+  letter-spacing: .2em;
+}
+
+
+/* 作品 */
+.works{
+  height: 775px;
+  background-color: #F5F5F5;
+}
+
+.works__subtitle{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 100px 0 25px 0;
+}
+
+.works__intro{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+/* 特徴 */
+.feature{
+  height: 800px;
+  background-color: white;
+}
+
+.feature__subtitle{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 100px 0 25px 0;
+}
+
+.feature__intro{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+
+
+
+/* 自己紹介 */
+.about{
+  height: 500px;
+  background-color: #F5F5F5;
+}
+
+.about__subtitle{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 100px 0 25px 0;
+}
+
+
+/* スキル */
+.skill{
+  height: 680px;
+  background-color: white;
+}
+
+.skill__subtitle{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 100px 0 25px 0;
+}
+
+.skill__intro{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+/* 連絡先 */
+.contact{
+  height: 500px;
+  background-color: #F5F5F5;
+}
+
+.contact__subtitle{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 100px 0 25px 0;
+}
+
+.contact__intro{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+.returnToTop{
+  height: 40px;
+  text-align: center;
+  background-color: green;
+}
+
+
+.footer{
+  height: 18px;
+  background-color: #333;
+  color: #8c8c8c;
+  text-align: center;
+  padding: 40px 0;
+  font-size: 12px;
 }
