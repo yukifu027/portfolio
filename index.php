@@ -43,7 +43,7 @@
         <div class="contact__intro">お問い合わせは、SNSかメールでお願いいたします。</div>
       </div>
       <div class="returnToTop">
-        <a href="#">トップへもどる</a>
+        <a href="#", class="returnToTop-button">トップへもどる</a>
       </div>
     </div>
 
