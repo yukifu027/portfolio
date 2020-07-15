@@ -13,11 +13,11 @@
     <header>
       <div class="header">
         <div class="contents">
-          <a href="#">WORKS</a>
-          <a href="#">FEATURE</a>
-          <a href="#">ABOUT</a>
-          <a href="#">SKILL</a>
-          <a href="#">CONTACT</a>
+          <a href="#1">WORKS</a>
+          <a href="#2">FEATURE</a>
+          <a href="#3">ABOUT</a>
+          <a href="#4">SKILL</a>
+          <a href="#5">CONTACT</a>
         </div>
       </div>
     </header>
@@ -27,7 +27,7 @@
         <div class="title__myname">YUKI FUKUI</div>
         <div class="title__subtitle">PORTFOLIO</div>
       </div>
-      <div class="works">
+      <div class="works" id='1'>
         <div class="works__subtitle">WORKS</div>
         <div class="works__intro">これまでに作成したWebアプリ・IOSアプリです。<br>TECHCAMP（プログラミングスクール）での課題制作も含んでおります。</div>
         <div class="works__contents">
@@ -39,18 +39,18 @@
           </div>
         </div>
       </div>
-      <div class="feature">
+      <div class="feature" id='2'>
         <div class="feature__subtitle">FEATURE</div>
         <div class="feature__intro">１サイトの解説</div>
       </div>
-      <div class="about">
+      <div class="about" id='3'>
         <div class="about__subtitle">ABOUT</div>
       </div>
-      <div class="skill">
+      <div class="skill" id='4'>
         <div class="skill__subtitle">SKILL</div>
         <div class="skill__intro">まだまだ努力は必要ですが、これからもスキルアップに励みます！</div>
       </div>
-      <div class="contact">
+      <div class="contact" id='5'>
         <div class="contact__subtitle">CONTACT</div>
         <div class="contact__intro">お問い合わせは、SNSかメールでお願いいたします。</div>
         <div class="contact__contents">
