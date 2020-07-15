@@ -9,6 +9,52 @@ h1,h2,h3,h4,h5,h6,p {
   margin: 0;
 }
 
+/* トップへ戻るボタン */
+#page_top{
+  width: 90px;
+  height: 90px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  opacity: 0.6;
+}
+#page_top a{
+  position: relative;
+  display: block;
+  width: 90px;
+  height: 90px;
+  text-decoration: none;
+}
+#page_top a::before{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #3f98ef;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: -40px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+#page_top a::after{
+  content: 'PAGE TOP';
+  font-size: 13px;
+  color: #fff;
+  position: absolute;
+  top: 45px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+  color: #3f98ef;
+}
+
 /* ヘッダー */
 .header{
   height: 60px;
@@ -230,24 +276,6 @@ input[type="submit"] {
 }
 
 
-
-
-
-.returnToTop{
-  height: 40px;
-  text-align: center;
-  background-color: #CCCCCC;
-}
-
-.returnToTop-button{
-  display: block;
-  width: 100%;
-  height: 100%;
-  line-height: 40px;
-  color: black;
-  text-decoration: none;
-  font-size: 11px;
-}
 
 
 /* フッター */

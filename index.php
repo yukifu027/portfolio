@@ -3,9 +3,13 @@
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="scroll.js"></script>
     <title>Yuki's Portfolio</title>
   </head>
   <body>
+    <div id="page_top"><a href="#"></a></div>
     <header>
       <div class="header">
         <div class="contents">
@@ -71,9 +75,6 @@
             <a href="https://twitter.com/X8makSD43KURayD" target="_blank"><img src="img/sns/Twitter_Social_Icon_Circle_Color.png" alt="作品の写真" class="contact__contents-twitter"></a>
           </div>
         </div>
-      </div>
-      <div class="returnToTop">
-        <a href="#" class="returnToTop-button">トップへもどる</a>
       </div>
     </div>
 
