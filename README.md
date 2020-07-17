@@ -1,5 +1,5 @@
 
-<h2 align="center">Mirai</h2>
+<h2 align="center">Yuki</h2>
 
 [![Image from Gyazo](https://i.gyazo.com/c1636f44b50d64b6072ca684169acc0d.png)](https://gyazo.com/c1636f44b50d64b6072ca684169acc0d)
 
