@@ -45,6 +45,22 @@
       </div>
       <div class="about" id='3'>
         <div class="about__subtitle">ABOUT</div>
+        <div class="about__content">
+          <img src="img/about/c25e21bacc6a649cc525f5a000ae454fb_33688528_200625_0164.jpg" alt="作品の写真" class="about__image">
+          <div class="about__sentence">
+            福井祐希（22）＊2020年7月現在</br>
+            趣味は、旅行とギターです。</br>
+            国際系の大学にいたことから、特技は英会話です。（TOEIC880点）</br>
+            <b>2020-4 ~ </b></br>
+            ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</br>
+            【TECHCAMP受講生（プログラミングスクール）】</br>
+            1　Ruby on Railsのフレームワークを用いたチャットアプリ制作</br>
+            2　既存のフリマサービスのクローンサイトを作成し、スクラムを用いたアジャイル開発を経験</br>
+            <b>2020-6 ~ </b></br>
+            ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</br>
+            Rails・Swift・React・PHPを使って、オリジナルアプリを制作中
+          </div>
+        </div>
       </div>
       <div class="skill" id='4'>
         <div class="skill__subtitle">SKILL</div>
