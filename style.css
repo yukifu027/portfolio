@@ -224,10 +224,6 @@ main{
   object-fit: cover;
 }
 
-.about__sentence{
-  
-}
-
 
 /* スキル */
 .skill{
@@ -245,8 +241,33 @@ main{
 .skill__intro{
   text-align: center;
   font-size: 15px;
+  padding-bottom: 50px;
 }
 
+.skill__contents{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.skill__content{
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+}
+
+.skill__image{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.skill__name{
+  font-weight: bold;
+  line-height: 100px;
+}
 
 /* 連絡先 */
 .contact{

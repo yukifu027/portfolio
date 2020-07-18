@@ -65,6 +65,32 @@
       <div class="skill" id='4'>
         <div class="skill__subtitle">SKILL</div>
         <div class="skill__intro">まだまだ努力は必要ですが、これからもスキルアップに励みます！</div>
+        <div class="skill__contents">
+          <div class="skill__content">
+            <img src="img/skill/ruby.png" alt="スキルのロゴ" class="skill__image">
+            <div class="skill__name">Ruby</div>
+          </div>
+          <div class="skill__content">
+            <img src="img/skill/htmlcssjs-sum.png" alt="スキルのロゴ" class="skill__image">
+            <div class="skill__name">HTML/CSS/Javascript</div>
+          </div>
+          <div class="skill__content">
+            <img src="img/skill/Swift_logo_color_rgb.png" alt="スキルのロゴ" class="skill__image">
+            <div class="skill__name">Swift</div>
+          </div>
+          <div class="skill__content">
+            <img src="img/skill/new-php-logo.png" alt="スキルのロゴ" >
+            <div class="skill__name">PHP</div>
+          </div>
+          <div class="skill__content">
+            <img src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing">
+            <div class="skill__name">AWS</div>
+          </div>
+          <div class="skill__content">
+            <img src="img/skill/GitHub-Mark-64px.png" alt="スキルのロゴ" class="skill__image">
+            <div class="skill__name">Github</div>
+          </div>
+        </div>
       </div>
       <div class="contact" id='5'>
         <div class="contact__subtitle">CONTACT</div>
