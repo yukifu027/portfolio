@@ -42,6 +42,17 @@
       <div class="feature" id='2'>
         <div class="feature__subtitle">FEATURE</div>
         <div class="feature__intro">１サイトの解説</div>
+        <div class="feature__contents">
+          <a href= "http://54.168.141.53/" class="hover-action"><img src="img/works/furima.png" alt="スキルのロゴ" class="feature__image"></a>
+          <div class="feature__sentence">
+            サイト名：FURIMA</br>
+            <a href="https://docs.google.com/document/d/1ZLodv2ol7FlkoPj9fp0sunFAR1XV0hEFnlB0cBZ5feI/edit">詳細</a></br>
+            </br>
+            担当：　DB設計・商品購入確認ページマークアップ・商品購入機能（単体テスト済み）・リファクタリング・デプロイetc</br></br>
+            コメント：TECHCAMPにて、スクラムを用いたアジャイル開発を行いました。その中で、個人での開発とは違い、チーム内での連携の必要性を強く感じ、今後の実務に生かしていきたいと考えております。
+
+          </div>
+        </div>
       </div>
       <div class="about" id='3'>
         <div class="about__subtitle">ABOUT</div>
