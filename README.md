@@ -13,5 +13,8 @@ https://yukisportfolio.herokuapp.com/
 # 制作期間
 7日間
 
+# 課題
+- お問い合わせフォームを完成させる
+
 # 使用技術(開発環境)
 PHP/jQueryGithub/heroku/Visual Studio Code
