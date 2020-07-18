@@ -32,10 +32,49 @@
         <div class="works__intro">これまでに作成したWebアプリ・IOSアプリです。<br>TECHCAMP（プログラミングスクール）での課題制作も含んでおります。</div>
         <div class="works__contents">
           <div class="works__content">
-            <img src="img/IMG_8557.jpg" alt="作品の写真" class="works__content-image">
+            <a href="https://github.com/yukifu027/fleamarket_sample_75b" target="_blank"><img src="img/works/furima.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
             <div class="works__content-name">FURIMA</div>
             <div class="works__content-skill">Ruby/AWS/jQuery</div>
-            <div class="works__content-link"><a class="works__content-link" href="#" target="_blank">Link</a></div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/chat-space" target="_blank"><img src="img/works/chatspace.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Chat Space</div>
+            <div class="works__content-skill">Ruby/AWS/jQuery</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/geo-app" target="_blank"><img src="img/works/geo-app.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Geo App</div>
+            <div class="works__content-skill">Ruby/Heroku/jQuery</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/mirai-app" target="_blank"><img src="img/works/mirai.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Mirai</div>
+            <div class="works__content-skill">Ruby/Heroku/jQuery</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/news-app" target="_blank"><img src="img/works/newsapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">News App</div>
+            <div class="works__content-skill">Swift/XCode</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/Bokete-app" target="_blank"><img src="img/works/bokete.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">bokete</div>
+            <div class="works__content-skill">Swift/XCode</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/Chat-app" target="_blank"><img src="img/works/chatapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Chat App</div>
+            <div class="works__content-skill">Swift/XCode</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/GoogleAdmob-app" target="_blank"><img src="img/works/googleadmob.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Google AdMob</div>
+            <div class="works__content-skill">Swift/XCode</div>
+          </div>
+          <div class="works__content">
+            <a href="https://github.com/yukifu027/quiz-app" target="_blank"><img src="img/works/quizapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+            <div class="works__content-name">Quiz App</div>
+            <div class="works__content-skill">Swift/XCode</div>
           </div>
         </div>
       </div>
