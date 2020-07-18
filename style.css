@@ -337,9 +337,19 @@ input[type="submit"] {
   background-color: #5cb85c;
 }
 
+.contact__contents-sns{
+  display: flex;
+}
+
 .contact__contents-twitter{
   height: 50px;
   width: 50px;
+  object-fit: cover;
+}
+
+.contact__contents-wantedly{
+  height: 50px;
+  width: auto;
   object-fit: cover;
 }
 

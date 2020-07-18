@@ -40,46 +40,6 @@
               <div class="works__content-skill"><?php echo $work->getSkill() ?></div>
             </div>
           <?php endforeach ?>
-          <!-- <div class="works__content">
-            <a href="https://github.com/yukifu027/chat-space" target="_blank"><img src="img/works/chatspace.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Chat Space</div>
-            <div class="works__content-skill">Ruby/AWS/jQuery</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/geo-app" target="_blank"><img src="img/works/geo-app.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Geo App</div>
-            <div class="works__content-skill">Ruby/Heroku/jQuery</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/mirai-app" target="_blank"><img src="img/works/mirai.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Mirai</div>
-            <div class="works__content-skill">Ruby/Heroku/jQuery</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/news-app" target="_blank"><img src="img/works/newsapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">News App</div>
-            <div class="works__content-skill">Swift/XCode</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/Bokete-app" target="_blank"><img src="img/works/bokete.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">bokete</div>
-            <div class="works__content-skill">Swift/XCode</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/Chat-app" target="_blank"><img src="img/works/chatapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Chat App</div>
-            <div class="works__content-skill">Swift/XCode</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/GoogleAdmob-app" target="_blank"><img src="img/works/googleadmob.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Google AdMob</div>
-            <div class="works__content-skill">Swift/XCode</div>
-          </div>
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/quiz-app" target="_blank"><img src="img/works/quizapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">Quiz App</div>
-            <div class="works__content-skill">Swift/XCode</div>
-          </div> -->
         </div>
       </div>
       <div class="feature" id='2'>
@@ -169,6 +129,7 @@
           </form>
           <div class="contact__contents-sns">
             <a href="https://twitter.com/X8makSD43KURayD" target="_blank"><img src="img/sns/Twitter_Social_Icon_Circle_Color.png" alt="作品の写真" class="contact__contents-twitter"></a>
+            <a href="https://www.wantedly.com/users/138225663" target="_blank"><img src="img/sns/wantedly_logo.png" alt="作品の写真" class="contact__contents-wantedly"></a>
           </div>
         </div>
       </div>
