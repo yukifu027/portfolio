@@ -10,14 +10,7 @@
 # 本番環境
 
 # 制作期間
-
-# 制作背景(意図)
- 
-# DEMO
-
-# 工夫したポイント
+7日間
 
 # 使用技術(開発環境)
 PHP/jQueryGithub/heroku/Visual Studio Code
-
-# 課題や今後実装したい機能
