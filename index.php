@@ -1,3 +1,5 @@
+<?php require_once('data.php') ?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,12 +33,14 @@
         <div class="works__subtitle">WORKS</div>
         <div class="works__intro">これまでに作成したWebアプリ・IOSアプリです。<br>TECHCAMP（プログラミングスクール）での課題制作も含んでおります。</div>
         <div class="works__contents">
-          <div class="works__content">
-            <a href="https://github.com/yukifu027/fleamarket_sample_75b" target="_blank"><img src="img/works/furima.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
-            <div class="works__content-name">FURIMA</div>
-            <div class="works__content-skill">Ruby/AWS/jQuery</div>
-          </div>
-          <div class="works__content">
+          <?php foreach($works as $work): ?>
+            <div class="works__content">
+              <a href="<?php echo $work->getLink() ?>" target="_blank"><img src="<?php echo $work->getImage() ?>" alt="作品の写真" id="works__content-image" class="hover-action"></a>
+              <div class="works__content-name"><?php echo $work->getName() ?></div>
+              <div class="works__content-skill"><?php echo $work->getSkill() ?></div>
+            </div>
+          <?php endforeach ?>
+          <!-- <div class="works__content">
             <a href="https://github.com/yukifu027/chat-space" target="_blank"><img src="img/works/chatspace.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
             <div class="works__content-name">Chat Space</div>
             <div class="works__content-skill">Ruby/AWS/jQuery</div>
@@ -75,7 +79,7 @@
             <a href="https://github.com/yukifu027/quiz-app" target="_blank"><img src="img/works/quizapp.png" alt="作品の写真" id="works__content-image" class="hover-action"></a>
             <div class="works__content-name">Quiz App</div>
             <div class="works__content-skill">Swift/XCode</div>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="feature" id='2'>
