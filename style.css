@@ -339,6 +339,8 @@ input[type="submit"] {
 
 .contact__contents-sns{
   display: flex;
+  justify-content: space-evenly;
+  width: 400px;
 }
 
 .contact__contents-twitter{
