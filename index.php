@@ -110,15 +110,12 @@
         <div class="contact__subtitle">CONTACT</div>
         <div class="contact__intro">お問い合わせは、SNSかメールでお願いいたします。</div>
         <div class="contact__contents">
-          <form class="contact__contents-form" action="confirmation.php" method="post">
+          <form class="contact__contents-form" action="mailto.php" method="post">
               名前：<br />
               <input type="text" name="name" size="50" value="" /><br />
   
               メールアドレス：<br />
               <input type="text" name="mail" size="50" value="" /><br />
-
-              件名：<br />
-              <input type="text" name="title" size="50" value="" /><br />
   
               問合せ内容：<br />
               <textarea name="inquiry" cols="50" rows="5"></textarea><br />

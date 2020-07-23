@@ -21,10 +21,6 @@
 <td><?php echo $_POST["mail"]; ?></td>
 </tr>
 <tr>
-<td>件名</td>
-<td><?php echo $_POST["title"]; ?></td>
-</tr>
-<tr>
 <td>問い合わせ内容</td>
 <td><?php echo $_POST["inquiry"]; ?></td>
 </tr>
