@@ -125,6 +125,7 @@
               <input type="submit" value="送信" />
           </form>
           <div class="contact__contents-sns">
+            <a href="https://www.facebook.com/profile.php?id=100011484172817" target="_blank"><img src="img/sns/f_logo_RGB-Blue_1024.png" alt="作品の写真" class="contact__contents-twitter"></a>
             <a href="https://twitter.com/X8makSD43KURayD" target="_blank"><img src="img/sns/Twitter_Social_Icon_Circle_Color.png" alt="作品の写真" class="contact__contents-twitter"></a>
             <a href="https://github.com/yukifu027" target="_blank"><img src="img/sns/GitHub-Mark-64px.png" alt="作品の写真" class="contact__contents-twitter"></a>
             <a href="https://www.wantedly.com/users/138225663" target="_blank"><img src="img/sns/wantedly_logo.png" alt="作品の写真" class="contact__contents-wantedly"></a>
