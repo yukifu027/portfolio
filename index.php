@@ -104,6 +104,10 @@
             <img src="img/skill/GitHub-Mark-64px.png" alt="スキルのロゴ" class="skill__image">
             <div class="skill__name">Github</div>
           </div>
+          <div class="skill__content">
+            <img src="img/skill/logo.png" alt="スキルのロゴ" class="skill__image">
+            <div class="skill__name">Vue.js</div>
+          </div>
         </div>
       </div>
       <div class="contact" id='5'>
