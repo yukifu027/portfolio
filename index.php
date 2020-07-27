@@ -4,8 +4,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="responsive.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="scroll.js"></script>
     <title>Yuki's Portfolio</title>
@@ -15,11 +17,11 @@
     <header>
       <div class="header">
         <div class="contents">
-          <a href="#1">WORKS</a>
-          <a href="#2">FEATURE</a>
-          <a href="#3">ABOUT</a>
-          <a href="#4">SKILL</a>
-          <a href="#5">CONTACT</a>
+          <a href="#1" class="table">WORKS</a>
+          <a href="#2" class="table">FEATURE</a>
+          <a href="#3" class="table">ABOUT</a>
+          <a href="#4" class="table">SKILL</a>
+          <a href="#5" class="table">CONTACT</a>
         </div>
       </div>
     </header>
