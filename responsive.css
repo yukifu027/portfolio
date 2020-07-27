@@ -9,6 +9,13 @@
     height: 3650px;
     background-color: #F5F5F5;
   }
+
+  .skill__content{
+    width:50%;
+    padding: 0 25px;
+    margin-bottom:50px;
+  }
+
 }
 
 @media (max-width:670px) {
@@ -21,6 +28,16 @@
   .works{
     height: 7700px;
     background-color: #F5F5F5;
+  }
+
+  .skill__content{
+    width:100%;
+    padding: 0 25px;
+    margin-bottom:50px;
+  }
+
+  .skill{
+    height: 1280px;
   }
 
 
