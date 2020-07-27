@@ -15,6 +15,7 @@ https://yukisportfolio.herokuapp.com/
 
 # 課題
 - お問い合わせフォームを完成させる
+- レスポンシブデザインを実装する
 
 # 使用技術(開発環境)
 PHP/jQueryGithub/heroku/Visual Studio Code
