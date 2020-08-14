@@ -124,13 +124,13 @@
         <div class="contact__intro">お問い合わせは、SNSかメールでお願いいたします。</div>
         <div class="contact__contents">
           <form class="contact__contents-form" action="mailto.php" method="post">
-              名前：<br />
+              名前（必須）：<br />
               <input type="text" name="name" size="50" value="" /><br />
   
-              メールアドレス：<br />
+              メールアドレス（必須）：<br />
               <input type="text" name="mail" size="50" value="" /><br />
   
-              問合せ内容：<br />
+              問合せ内容（必須）：<br />
               <textarea name="inquiry" cols="50" rows="5"></textarea><br />
   
               <br />
