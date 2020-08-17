@@ -121,7 +121,7 @@
       </div>
       <div class="contact" id='5'>
         <div class="contact__subtitle">CONTACT</div>
-        <div class="contact__intro">お問い合わせは、SNSかメールでお願いいたします。</div>
+        <div class="contact__intro">お問い合わせは、SNSもしくはメールでお願いいたします。</div>
         <div class="contact__contents">
           <form class="contact__contents-form" action="mailto.php" method="post">
               名前（必須）：<br />
