@@ -7,7 +7,7 @@
  
 <body>
  
-<h2>問合せ内容</h2>    
+<h2>お問合せ内容</h2>    
  
 <form action="mailto.php" method="post">
  
