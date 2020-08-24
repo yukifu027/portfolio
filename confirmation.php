@@ -13,7 +13,7 @@
  
 <table border="1" style="border-collapse: collapse">
 <tr>
-<td>名前</td>
+<td>氏名</td>
 <td><?php echo $_POST["name"]; ?></td>
 </tr>
 <tr>
